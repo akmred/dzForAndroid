@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstDZ</string>
+    <string name="s_text">s_text</string>
+    <string name="town">town</string>
+    <string name="temperature">temperatura</string>
+</resources>
