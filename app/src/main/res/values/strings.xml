@@ -3,4 +3,5 @@
     <string name="s_text">s_text</string>
     <string name="town">town</string>
     <string name="temperature">temperatura</string>
+    <string name="b_customization">b_customization</string>
 </resources>
