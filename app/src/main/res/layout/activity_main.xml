@@ -42,7 +42,7 @@
         android:layout_marginEnd="19dp"
         android:layout_marginRight="19dp"
         android:layout_marginBottom="180dp"
-        android:onClick="b_customization_onClick"
+        android:onClick="bCustomizationOnClick"
         android:text="Настройка"
         android:textSize="24sp"
         android:visibility="visible"
