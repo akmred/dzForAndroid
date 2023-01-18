@@ -45,7 +45,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <CheckBox
-        android:id="@+id/checkBox"
+        android:id="@+id/windSpeed"
         android:layout_width="229dp"
         android:layout_height="30dp"
         android:layout_marginTop="28dp"
@@ -59,6 +59,6 @@
         android:layout_height="30dp"
         android:layout_marginTop="10dp"
         android:text="Давление"
-        app:layout_constraintTop_toBottomOf="@+id/checkBox"
+        app:layout_constraintTop_toBottomOf="@+id/windSpeed"
         tools:layout_editor_absoluteX="28dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
